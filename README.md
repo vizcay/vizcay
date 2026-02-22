@@ -10,4 +10,4 @@ microservices architecture and more.
 
 [![vizcay's github stats](https://github-readme-stats.vercel.app/api?username=vizcay&count_private=true&show_icons=true&theme=prussian)](https://github.com/vizcay)
 
-![Metrics]
+![Metrics](/github-metrics.svg)
